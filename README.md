@@ -7,10 +7,7 @@
 This project has **zero external dependencies**. You do not need to install anything via `pip`.
 
 1. Clone or download this repository.
-2. Open your terminal or command prompt and navigate to the project directory:
-   ```bash
-   cd path/to/your/project
-   ```
+2. Open your terminal or command prompt and navigate to the project directory.
 3. Run the script using Python:
    ```bash
    python sketch.py
